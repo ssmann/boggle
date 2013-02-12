@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 import re
 
+#testing
+
 board = []
 available_letters = dict()
 
